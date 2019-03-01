@@ -10,7 +10,7 @@ construído em C# com auxilio do windows forms.
 <li> 1 - Usuário escolhe a imagem do crachá</li>
 <li> 2 - usuário digita texto do crachá, podendo conter tags como : {{nome}}, {{país}}, {{email}}, {{instituição}}, {{inscrição}}</li>
 <li> 3 - Usuário cola o conteúdo da tabela, inclusive os cabeçalhos</li>  
-<li> 3 - Usuário clica no botão "Baixar Crachás"
+<li> 4 - Usuário clica no botão "Baixar Crachás"
 </ul>
 
 
