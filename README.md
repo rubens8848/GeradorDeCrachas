@@ -38,3 +38,9 @@ area_tags.Text = textoComTagsOriginal;
 ConverteTagsEmInformacoes(participantes, indiceDoLaco);
 CriaPDFComCracha(participantes, indiceDoLaco);
 ```
+
+
+## Dificuldades
+
+- Front-End
+- Integração do front com o back-end
