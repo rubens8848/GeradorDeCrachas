@@ -1,0 +1,14 @@
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.xml
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\ExercicioEvenJunior.csprojAssemblyReference.cache
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\ExercicioEvenJunior.Form1.resources
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\ExercicioEvenJunior.csproj.GenerateResource.cache
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\ExercicioEvenJunior.csproj.CoreCompileInputs.cache
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\ExercicioEvenJunior.csproj.CopyComplete
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
