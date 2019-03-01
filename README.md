@@ -6,7 +6,8 @@ construído em C# com auxilio do windows forms.
 ## Funcionamento
 
 <ul>
-<li> 1 - Usuário escolhe imagem do crachá</li>
+<li> 0 - Executar o Form1 da pasta view, correponde a simulação da página web
+<li> 1 - Usuário escolhe a imagem do crachá</li>
 <li> 2 - usuário digita texto do crachá, podendo conter tags como : {{nome}}, {{país}}, {{email}}, {{instituição}}, {{inscrição}}</li>
 <li> 3 - Usuário cola o conteúdo da tabela, inclusive os cabeçalhos</li>  
 <li> 3 - Usuário clica no botão "Baixar Crachás"
