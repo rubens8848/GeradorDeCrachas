@@ -12,3 +12,16 @@ C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\Exercicio
 C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\ExercicioEvenJunior.csproj.CopyComplete
 C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Cartório\source\repos\Even3Junior\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\bin\Debug\WindowsFormsApp1.xml
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\bin\Debug\itextsharp.xml
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\ExercicioEvenJunior.csprojAssemblyReference.cache
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\ExercicioEvenJunior.Form1.resources
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\ExercicioEvenJunior.csproj.GenerateResource.cache
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\ExercicioEvenJunior.csproj.CoreCompileInputs.cache
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\ExercicioEvenJunior.csproj.CopyComplete
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rubens\Source\Repos\rubens8848\GeradorDeCrachas\obj\Debug\WindowsFormsApp1.pdb
