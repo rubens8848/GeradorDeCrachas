@@ -1,0 +1,99 @@
+  <?xml version="1.0" ?> 
+- <doc>
+- <assembly>
+  <name>WindowsFormsApp1</name> 
+  </assembly>
+- <members>
+- <member name="T:ExercicioEvenJunior.ConverterParticipante">
+  <summary>Classe responsável pela conversão da planilha em participantes</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.ConverterParticipante.#ctor(System.String)">
+  <summary>Construtor que recebe o texto da planilha com as informações dos participantes</summary> 
+  <param name="textoPlanilha">texto da planilha</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.ConverterParticipante.CriaArquivo">
+  <summary>Método para criar um arquivo txt com os dados que foram colados da planilha</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.ConverterParticipante.PopulaListaDeParticipantes">
+  <summary>Método para pegar a lista de participantes com os dados do arquivo</summary> 
+  <returns>Retorna a uma lista do tipo Participante, com todos os participantes contidos no arquivo</returns> 
+  </member>
+- <member name="M:ExercicioEvenJunior.ConverterParticipante.CriaParticipante(System.String)">
+  <summary>Método para transformar uma linha do arquivo em um participante</summary> 
+  <param name="linhaDaTabela">Linha com informações do participante</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.ConverterParticipante.ConverteArquivoEmParticipantes(System.IO.StreamReader)">
+  <summary>Método que gera a lista completa com todos os participantes</summary> 
+  <param name="leitor" /> 
+  </member>
+- <member name="T:ExercicioEvenJunior.GeraCracha">
+  <summary>Classe utilizada para a escrever os dados do participante no modelo de crachá selecionado</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.GeraCracha.#ctor(System.Drawing.Image)">
+  <summary>Construtor que recebe a imagem que será usada como modelo do crachá</summary> 
+  <param name="image">Imagem do crachá</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.GeraCracha.PopulaCracha(System.String,System.Drawing.Font)">
+  <summary>Método</summary> 
+  <param name="textoComTags">Texto contendo as informações a serem escritas no crachá</param> 
+  <param name="fonte">Dados sobre as configurações do texto, como: tamanho, fonte, estilo, etc..</param> 
+  <returns>retorna a imagem que representa o crachá com os dados do participante</returns> 
+  </member>
+- <member name="T:ExercicioEvenJunior.Form1">
+  <summary>Representa a tela de interação do usuário para gerar crachás</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.notificaTagInválida">
+  <summary>Mostra uma mensagem na tela caso seja encontrada uma tag inválida</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.CriaPDFComCracha(System.Collections.Generic.List{Participante},System.Int32)">
+  <summary>Método para criar o arquivo PDF com as informações do participante</summary> 
+  <param name="participantes">Lista dos participantes, usada para salvar o nome do arquivo como o email do participante</param> 
+  <param name="indiceDoLaco">índice usado para percorrer a lista de participantes</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.ConverteTagsEmInformacoes(System.Collections.Generic.List{Participante},System.Int32)">
+  <summary>Método para converter as tags em dados dos participantes</summary> 
+  <param name="participantes">Lista de participantes, usada para pegar os dados que irão substituir as tags</param> 
+  <param name="indice">Índice utilizado para percorrer a lista de participantes</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.VerificaTagInvalida">
+  <summary>Método verificar a ocorrência de uma tag inválida</summary> 
+  <returns>retorna um Boolean, caso encontre uma tag inválida retorna true, caso contrário retorna false</returns> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.SubstituiTag(System.String,System.String)">
+  <summary>Método para trocar as tags no texto por informações</summary> 
+  <param name="tag">referencia um texto que contenha os caracteres {{ }}</param> 
+  <param name="substituicao">Texto que será usado para substituir a tag</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.CriaPreview">
+  <summary>Método para criar uma preview do crachá com as informações definidas pelo usuário</summary> 
+  </member>
+- <member name="F:ExercicioEvenJunior.Form1.components">
+  <summary>Variável de designer necessária.</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.Dispose(System.Boolean)">
+  <summary>Limpar os recursos que estão sendo usados.</summary> 
+  <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Form1.InitializeComponent">
+  <summary>Método necessário para suporte ao Designer - não modifique o conteúdo deste método com o editor de código.</summary> 
+  </member>
+- <member name="M:ExercicioEvenJunior.Program.Main">
+  <summary>Ponto de entrada principal para o aplicativo.</summary> 
+  </member>
+- <member name="T:Participante">
+  <summary>Classe que represenata um participante da tabela</summary> 
+  </member>
+- <member name="T:WindowsFormsApp1.Properties.Resources">
+  <summary>Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.</summary> 
+  </member>
+- <member name="P:WindowsFormsApp1.Properties.Resources.ResourceManager">
+  <summary>Retorna a instância de ResourceManager armazenada em cache usada por essa classe.</summary> 
+  </member>
+- <member name="P:WindowsFormsApp1.Properties.Resources.Culture">
+  <summary>Substitui a propriedade CurrentUICulture do thread atual para todas as pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.</summary> 
+  </member>
+- <member name="P:WindowsFormsApp1.Properties.Resources.Cracha01">
+  <summary>Consulta um recurso localizado do tipo System.Drawing.Bitmap.</summary> 
+  </member>
+  </members>
+  </doc>
