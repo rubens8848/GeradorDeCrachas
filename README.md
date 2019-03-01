@@ -1,6 +1,7 @@
-# Crachas Even3
+# Crachás Even3
 
 Este Mini projeto permite ao usuário criar crachás para vários participantes de um evento de forma rápida e dinâmica!
+construído em C# com auxilio do windows forms.
   
 ## Funcionamento
 
@@ -12,14 +13,14 @@ Este Mini projeto permite ao usuário criar crachás para vários participantes 
 </ul>
 
 
-## Pré-requisitos:
+## Bibliotecas Externas:
 
-- Biblioteca iTextSharp
+- iTextSharp
 
 
 ## Exemplo Rápido
 
-<h3>Cria um arquivo com o texto da tabela e popula uma lista de participantes vinda do arquivo </h3>
+<h3>Cria um arquivo com o texto da tabela e popula uma lista de participantes com base no arquivo </h3>
 
 
 ```c#
